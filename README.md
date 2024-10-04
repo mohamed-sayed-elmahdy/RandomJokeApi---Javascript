@@ -12,7 +12,7 @@ A simple web application that fetches random jokes from an API and displays them
 ## Demo
 Live Version: https://mohamed-sayed-elmahdy.github.io/RandomJokeApi---Javascript/
 
-![Random Joke App Screenshot]([screenshot.png](https://raw.githubusercontent.com/mohamed-sayed-elmahdy/RandomJokeApi---Javascript/refs/heads/master/Random%20Joke%20Javascript%20Api.png))  
+![Random Joke App Screenshot]([https://raw.githubusercontent.com/mohamed-sayed-elmahdy/RandomJokeApi---Javascript/refs/heads/master/Random%20Joke%20Javascript%20Api.png])  
 *Screenshot of the Random Joke App interface.*
 
 ## Technologies Used
