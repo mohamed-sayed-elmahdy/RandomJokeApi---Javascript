@@ -14,3 +14,6 @@ function getJoke() {
 }
 getJoke();
 btn.addEventListener("click", getJoke);
+
+
+document.getElementById('year').textContent = new Date().getFullYear();
